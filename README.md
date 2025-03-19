@@ -13,7 +13,7 @@ Git을 사용하여 원격 레포지토리와 연결합니다. 먼저 해당 디
 cd /path/to/your/project-directory               # 원하는 디렉토리로 이동 어디에 있던 상관 없습니다.
 
 # 원격 레포지토리 추가 (원격 레포지토리 URL을 자신의 레포지토리 URL로 변경)
-git remote add origin https://github.com/Yithian01/computer-science-introduction-001-2025.git
+git remote add origin https://github.com/Yithian01/computer-science-introduction-002-2025.git
 
 ### 2단계: 최신 버전 받아오기
 git pull origin main                             # main 브랜치에서 최신 변경 사항을 받아옴
