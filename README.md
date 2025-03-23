@@ -45,6 +45,4 @@ git push origin 20231234-branch                 # 자신의 브랜치로 푸시
 
 
 ### 추가 사항
-- **GitHub Pull Request (PR) 리뷰 및 병합**: PR을 통해 `main` 브랜치에 직접 푸시하지 않도록 합니다. PR을 생성하여 튜터가 검토한 후 병합합니다.
-  
-이렇게 작성된 `README.md` 파일을 통해 학생들이 원활하게 과제를 제출할 수 있을 것입니다.
+- **GitHub Pull Request (PR) 리뷰 및 병합**: PR을 통해 `main` 브랜치에 직접 푸시하지 않도록 해주세요.
